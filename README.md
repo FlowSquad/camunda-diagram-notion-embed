@@ -44,7 +44,7 @@ The documentation project is built with technologies we use in our projects:
 
 ## Getting started
 
-Install the app on a platform like netlify or use our deployment at: 
+Install the app on a platform like netlify or use our deployment at: https://miragon-cawemo-notion-embed.netlify.app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
