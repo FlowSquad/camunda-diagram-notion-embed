@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" height="100">
   </a>
 
-<h3 align="center">Cawemo Notion Embed</h3>
+<h3 align="center">Camunda Notion Embed</h3>
 
   <p align="center">
     <i></i>
